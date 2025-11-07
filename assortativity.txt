@@ -1,0 +1,2 @@
+Threshold graph degree assortativity: 0.5942028985507245
+MST graph degree assortativity: -0.3038794372166952

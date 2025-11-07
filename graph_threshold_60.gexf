@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-05">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="abs_weight" type="double" />
+    </attributes>
+    <nodes>
+      <node id="360ONE" label="360ONE" />
+      <node id="3MINDIA" label="3MINDIA" />
+      <node id="AARTIIND" label="AARTIIND" />
+      <node id="AAVAS" label="AAVAS" />
+      <node id="ABB" label="ABB" />
+      <node id="ABBOTINDIA" label="ABBOTINDIA" />
+      <node id="ABCAPITAL" label="ABCAPITAL" />
+      <node id="ABFRL" label="ABFRL" />
+      <node id="ABREL" label="ABREL" />
+      <node id="ABSLAMC" label="ABSLAMC" />
+      <node id="ACC" label="ACC" />
+      <node id="ACE" label="ACE" />
+      <node id="ADANIENSOL" label="ADANIENSOL" />
+      <node id="ADANIENT" label="ADANIENT" />
+      <node id="ADANIGREEN" label="ADANIGREEN" />
+      <node id="ADANIPORTS" label="ADANIPORTS" />
+      <node id="ADANIPOWER" label="ADANIPOWER" />
+      <node id="AFFLE" label="AFFLE" />
+      <node id="AIAENG" label="AIAENG" />
+      <node id="AJANTPHARM" label="AJANTPHARM" />
+      <node id="AKZOINDIA" label="AKZOINDIA" />
+      <node id="ALKEM" label="ALKEM" />
+      <node id="ALKYLAMINE" label="ALKYLAMINE" />
+      <node id="ALOKINDS" label="ALOKINDS" />
+      <node id="AMBER" label="AMBER" />
+      <node id="AMBUJACEM" label="AMBUJACEM" />
+      <node id="ANANDRATHI" label="ANANDRATHI" />
+      <node id="ANANTRAJ" label="ANANTRAJ" />
+      <node id="ANGELONE" label="ANGELONE" />
+      <node id="APARINDS" label="APARINDS" />
+      <node id="APLAPOLLO" label="APLAPOLLO" />
+      <node id="APLLTD" label="APLLTD" />
+      <node id="APOLLOHOSP" label="APOLLOHOSP" />
+      <node id="APOLLOTYRE" label="APOLLOTYRE" />
+      <node id="APTUS" label="APTUS" />
+      <node id="ASAHIINDIA" label="ASAHIINDIA" />
+      <node id="ASHOKLEY" label="ASHOKLEY" />
+      <node id="ASIANPAINT" label="ASIANPAINT" />
+      <node id="ASTERDM" label="ASTERDM" />
+      <node id="ASTRAL" label="ASTRAL" />
+      <node id="ASTRAZEN" label="ASTRAZEN" />
+      <node id="ATGL" label="ATGL" />
+      <node id="ATUL" label="ATUL" />
+      <node id="AUBANK" label="AUBANK" />
+      <node id="AUROPHARMA" label="AUROPHARMA" />
+      <node id="AWL" label="AWL" />
+      <node id="AXISBANK" label="AXISBANK" />
+      <node id="BAJAJ-AUTO" label="BAJAJ-AUTO" />
+      <node id="BAJAJFINSV" label="BAJAJFINSV" />
+      <node id="BAJAJHLDNG" label="BAJAJHLDNG" />
+      <node id="BAJFINANCE" label="BAJFINANCE" />
+      <node id="BALKRISIND" label="BALKRISIND" />
+      <node id="BALRAMCHIN" label="BALRAMCHIN" />
+      <node id="BANDHANBNK" label="BANDHANBNK" />
+      <node id="BANKBARODA" label="BANKBARODA" />
+      <node id="BANKINDIA" label="BANKINDIA" />
+      <node id="BASF" label="BASF" />
+      <node id="BATAINDIA" label="BATAINDIA" />
+      <node id="BAYERCROP" label="BAYERCROP" />
+      <node id="BDL" label="BDL" />
+      <node id="BEL" label="BEL" />
+      <node id="BEML" label="BEML" />
+      <node id="BERGEPAINT" label="BERGEPAINT" />
+      <node id="BHARATFORG" label="BHARATFORG" />
+      <node id="BHEL" label="BHEL" />
+      <node id="BLS" label="BLS" />
+      <node id="BSE" label="BSE" />
+      <node id="DMART" label="DMART" />
+      <node id="MAHABANK" label="MAHABANK" />
+      <node id="ENGINERSIN" label="ENGINERSIN" />
+      <node id="ERIS" label="ERIS" />
+      <node id="ESCORTS" label="ESCORTS" />
+      <node id="ETERNAL" label="ETERNAL" />
+      <node id="EXIDEIND" label="EXIDEIND" />
+      <node id="FACT" label="FACT" />
+      <node id="FEDERALBNK" label="FEDERALBNK" />
+      <node id="FINCABLES" label="FINCABLES" />
+      <node id="FINPIPE" label="FINPIPE" />
+      <node id="FIVESTAR" label="FIVESTAR" />
+      <node id="FLUOROCHEM" label="FLUOROCHEM" />
+      <node id="FORCEMOT" label="FORCEMOT" />
+      <node id="FORTIS" label="FORTIS" />
+      <node id="FSL" label="FSL" />
+      <node id="GAIL" label="GAIL" />
+      <node id="GESHIP" label="GESHIP" />
+      <node id="GICRE" label="GICRE" />
+      <node id="GILLETTE" label="GILLETTE" />
+      <node id="GLAND" label="GLAND" />
+      <node id="GLAXO" label="GLAXO" />
+      <node id="GLENMARK" label="GLENMARK" />
+      <node id="GMDCLTD" label="GMDCLTD" />
+      <node id="GMRAIRPORT" label="GMRAIRPORT" />
+      <node id="GODFRYPHLP" label="GODFRYPHLP" />
+      <node id="GODREJAGRO" label="GODREJAGRO" />
+      <node id="GODREJCP" label="GODREJCP" />
+      <node id="GODREJIND" label="GODREJIND" />
+      <node id="GODREJPROP" label="GODREJPROP" />
+      <node id="GPIL" label="GPIL" />
+      <node id="GRANULES" label="GRANULES" />
+      <node id="GRAPHITE" label="GRAPHITE" />
+      <node id="GRASIM" label="GRASIM" />
+      <node id="GRAVITA" label="GRAVITA" />
+      <node id="GRSE" label="GRSE" />
+      <node id="GSPL" label="GSPL" />
+      <node id="GUJGASLTD" label="GUJGASLTD" />
+      <node id="GVT&amp;D" label="GVT&amp;D" />
+      <node id="MEDANTA" label="MEDANTA" />
+      <node id="NYKAA" label="NYKAA" />
+    </nodes>
+    <edges>
+      <edge source="ACC" target="ADANIENT" id="0" weight="0.6031094357993632">
+        <attvalues>
+          <attvalue for="0" value="0.6031094357993632" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIPORTS" id="1" weight="0.7109092426641542">
+        <attvalues>
+          <attvalue for="0" value="0.7109092426641542" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="AMBUJACEM" id="2" weight="0.8256634258869672">
+        <attvalues>
+          <attvalue for="0" value="0.8256634258869672" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ADANIGREEN" id="3" weight="0.6517155681747522">
+        <attvalues>
+          <attvalue for="0" value="0.6517155681747522" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="ADANIPORTS" id="4" weight="0.7885842705152966">
+        <attvalues>
+          <attvalue for="0" value="0.7885842705152966" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="AMBUJACEM" id="5" weight="0.6509661184632848">
+        <attvalues>
+          <attvalue for="0" value="0.6509661184632848" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="ADANIPOWER" id="6" weight="0.6231226906841121">
+        <attvalues>
+          <attvalue for="0" value="0.6231226906841121" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="ATGL" id="7" weight="0.7527413226930183">
+        <attvalues>
+          <attvalue for="0" value="0.7527413226930183" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="AMBUJACEM" id="8" weight="0.7599939576491284">
+        <attvalues>
+          <attvalue for="0" value="0.7599939576491284" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPOWER" target="ATGL" id="9" weight="0.6680187108198212">
+        <attvalues>
+          <attvalue for="0" value="0.6680187108198212" />
+        </attvalues>
+      </edge>
+      <edge source="BAJAJFINSV" target="BAJFINANCE" id="10" weight="0.7496750324875581">
+        <attvalues>
+          <attvalue for="0" value="0.7496750324875581" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="BANKINDIA" id="11" weight="0.6125306613093243">
+        <attvalues>
+          <attvalue for="0" value="0.6125306613093243" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="MAHABANK" id="12" weight="0.6343618612014869">
+        <attvalues>
+          <attvalue for="0" value="0.6343618612014869" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="BHEL" id="13" weight="0.6533073394486317">
+        <attvalues>
+          <attvalue for="0" value="0.6533073394486317" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

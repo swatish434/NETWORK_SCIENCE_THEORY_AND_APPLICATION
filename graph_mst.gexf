@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-05">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="360ONE" label="360ONE" />
+      <node id="3MINDIA" label="3MINDIA" />
+      <node id="AARTIIND" label="AARTIIND" />
+      <node id="AAVAS" label="AAVAS" />
+      <node id="ABB" label="ABB" />
+      <node id="ABBOTINDIA" label="ABBOTINDIA" />
+      <node id="ABCAPITAL" label="ABCAPITAL" />
+      <node id="ABFRL" label="ABFRL" />
+      <node id="ABREL" label="ABREL" />
+      <node id="ABSLAMC" label="ABSLAMC" />
+      <node id="ACC" label="ACC" />
+      <node id="ACE" label="ACE" />
+      <node id="ADANIENSOL" label="ADANIENSOL" />
+      <node id="ADANIENT" label="ADANIENT" />
+      <node id="ADANIGREEN" label="ADANIGREEN" />
+      <node id="ADANIPORTS" label="ADANIPORTS" />
+      <node id="ADANIPOWER" label="ADANIPOWER" />
+      <node id="AFFLE" label="AFFLE" />
+      <node id="AIAENG" label="AIAENG" />
+      <node id="AJANTPHARM" label="AJANTPHARM" />
+      <node id="AKZOINDIA" label="AKZOINDIA" />
+      <node id="ALKEM" label="ALKEM" />
+      <node id="ALKYLAMINE" label="ALKYLAMINE" />
+      <node id="ALOKINDS" label="ALOKINDS" />
+      <node id="AMBER" label="AMBER" />
+      <node id="AMBUJACEM" label="AMBUJACEM" />
+      <node id="ANANDRATHI" label="ANANDRATHI" />
+      <node id="ANANTRAJ" label="ANANTRAJ" />
+      <node id="ANGELONE" label="ANGELONE" />
+      <node id="APARINDS" label="APARINDS" />
+      <node id="APLAPOLLO" label="APLAPOLLO" />
+      <node id="APLLTD" label="APLLTD" />
+      <node id="APOLLOHOSP" label="APOLLOHOSP" />
+      <node id="APOLLOTYRE" label="APOLLOTYRE" />
+      <node id="APTUS" label="APTUS" />
+      <node id="ASAHIINDIA" label="ASAHIINDIA" />
+      <node id="ASHOKLEY" label="ASHOKLEY" />
+      <node id="ASIANPAINT" label="ASIANPAINT" />
+      <node id="ASTERDM" label="ASTERDM" />
+      <node id="ASTRAL" label="ASTRAL" />
+      <node id="ASTRAZEN" label="ASTRAZEN" />
+      <node id="ATGL" label="ATGL" />
+      <node id="ATUL" label="ATUL" />
+      <node id="AUBANK" label="AUBANK" />
+      <node id="AUROPHARMA" label="AUROPHARMA" />
+      <node id="AWL" label="AWL" />
+      <node id="AXISBANK" label="AXISBANK" />
+      <node id="BAJAJ-AUTO" label="BAJAJ-AUTO" />
+      <node id="BAJAJFINSV" label="BAJAJFINSV" />
+      <node id="BAJAJHLDNG" label="BAJAJHLDNG" />
+      <node id="BAJFINANCE" label="BAJFINANCE" />
+      <node id="BALKRISIND" label="BALKRISIND" />
+      <node id="BALRAMCHIN" label="BALRAMCHIN" />
+      <node id="BANDHANBNK" label="BANDHANBNK" />
+      <node id="BANKBARODA" label="BANKBARODA" />
+      <node id="BANKINDIA" label="BANKINDIA" />
+      <node id="BASF" label="BASF" />
+      <node id="BATAINDIA" label="BATAINDIA" />
+      <node id="BAYERCROP" label="BAYERCROP" />
+      <node id="BDL" label="BDL" />
+      <node id="BEL" label="BEL" />
+      <node id="BEML" label="BEML" />
+      <node id="BERGEPAINT" label="BERGEPAINT" />
+      <node id="BHARATFORG" label="BHARATFORG" />
+      <node id="BHEL" label="BHEL" />
+      <node id="BLS" label="BLS" />
+      <node id="BSE" label="BSE" />
+      <node id="DMART" label="DMART" />
+      <node id="MAHABANK" label="MAHABANK" />
+      <node id="ENGINERSIN" label="ENGINERSIN" />
+      <node id="ERIS" label="ERIS" />
+      <node id="ESCORTS" label="ESCORTS" />
+      <node id="ETERNAL" label="ETERNAL" />
+      <node id="EXIDEIND" label="EXIDEIND" />
+      <node id="FACT" label="FACT" />
+      <node id="FEDERALBNK" label="FEDERALBNK" />
+      <node id="FINCABLES" label="FINCABLES" />
+      <node id="FINPIPE" label="FINPIPE" />
+      <node id="FIVESTAR" label="FIVESTAR" />
+      <node id="FLUOROCHEM" label="FLUOROCHEM" />
+      <node id="FORCEMOT" label="FORCEMOT" />
+      <node id="FORTIS" label="FORTIS" />
+      <node id="FSL" label="FSL" />
+      <node id="GAIL" label="GAIL" />
+      <node id="GESHIP" label="GESHIP" />
+      <node id="GICRE" label="GICRE" />
+      <node id="GILLETTE" label="GILLETTE" />
+      <node id="GLAND" label="GLAND" />
+      <node id="GLAXO" label="GLAXO" />
+      <node id="GLENMARK" label="GLENMARK" />
+      <node id="GMDCLTD" label="GMDCLTD" />
+      <node id="GMRAIRPORT" label="GMRAIRPORT" />
+      <node id="GODFRYPHLP" label="GODFRYPHLP" />
+      <node id="GODREJAGRO" label="GODREJAGRO" />
+      <node id="GODREJCP" label="GODREJCP" />
+      <node id="GODREJIND" label="GODREJIND" />
+      <node id="GODREJPROP" label="GODREJPROP" />
+      <node id="GPIL" label="GPIL" />
+      <node id="GRANULES" label="GRANULES" />
+      <node id="GRAPHITE" label="GRAPHITE" />
+      <node id="GRASIM" label="GRASIM" />
+      <node id="GRAVITA" label="GRAVITA" />
+      <node id="GRSE" label="GRSE" />
+      <node id="GSPL" label="GSPL" />
+      <node id="GUJGASLTD" label="GUJGASLTD" />
+      <node id="GVT&amp;D" label="GVT&amp;D" />
+      <node id="MEDANTA" label="MEDANTA" />
+      <node id="NYKAA" label="NYKAA" />
+    </nodes>
+    <edges>
+      <edge source="360ONE" target="ABSLAMC" id="0" weight="1.2010388815481463" />
+      <edge source="3MINDIA" target="ESCORTS" id="1" weight="1.2453606128123775" />
+      <edge source="AARTIIND" target="ATUL" id="2" weight="1.0142619277546319" />
+      <edge source="AARTIIND" target="EXIDEIND" id="3" weight="1.0605232265145037" />
+      <edge source="AARTIIND" target="GRANULES" id="4" weight="1.0757111528226653" />
+      <edge source="AARTIIND" target="APOLLOTYRE" id="5" weight="1.1187884044391947" />
+      <edge source="AARTIIND" target="ALKYLAMINE" id="6" weight="1.120745438022522" />
+      <edge source="AARTIIND" target="GODREJAGRO" id="7" weight="1.1312886704541822" />
+      <edge source="AARTIIND" target="FACT" id="8" weight="1.1325110081975915" />
+      <edge source="AARTIIND" target="BASF" id="9" weight="1.1563216304600767" />
+      <edge source="AARTIIND" target="FLUOROCHEM" id="10" weight="1.1692701455642929" />
+      <edge source="AARTIIND" target="ASIANPAINT" id="11" weight="1.1719457768730073" />
+      <edge source="AARTIIND" target="BATAINDIA" id="12" weight="1.1941238179109956" />
+      <edge source="AARTIIND" target="GLAXO" id="13" weight="1.2042889465142315" />
+      <edge source="AAVAS" target="ENGINERSIN" id="14" weight="1.2211992409257837" />
+      <edge source="ABB" target="BEL" id="15" weight="1.0113077587314094" />
+      <edge source="ABBOTINDIA" target="GLENMARK" id="16" weight="1.2146798699915515" />
+      <edge source="ABCAPITAL" target="BANKBARODA" id="17" weight="0.9999399694955805" />
+      <edge source="ABCAPITAL" target="BALRAMCHIN" id="18" weight="1.0873073970768787" />
+      <edge source="ABCAPITAL" target="BAJAJFINSV" id="19" weight="1.090628702288581" />
+      <edge source="ABCAPITAL" target="ANGELONE" id="20" weight="1.1034235058877573" />
+      <edge source="ABCAPITAL" target="ETERNAL" id="21" weight="1.190901822875735" />
+      <edge source="ABCAPITAL" target="FIVESTAR" id="22" weight="1.2110736766540833" />
+      <edge source="ABCAPITAL" target="ABFRL" id="23" weight="1.242672992144439" />
+      <edge source="ABREL" target="BHEL" id="24" weight="1.0818892719943058" />
+      <edge source="ABSLAMC" target="ANANTRAJ" id="25" weight="1.0850857022859697" />
+      <edge source="ACC" target="AMBUJACEM" id="26" weight="0.5904855190655107" />
+      <edge source="ACC" target="BANKBARODA" id="27" weight="0.9432747553863015" />
+      <edge source="ACC" target="GRASIM" id="28" weight="1.0503297308815225" />
+      <edge source="ACC" target="BLS" id="29" weight="1.1204504142788483" />
+      <edge source="ACC" target="GODFRYPHLP" id="30" weight="1.2285917995141484" />
+      <edge source="ACE" target="MAHABANK" id="31" weight="1.096028284552902" />
+      <edge source="ADANIENSOL" target="ADANIGREEN" id="32" weight="0.8346070115033156" />
+      <edge source="ADANIENT" target="ADANIPORTS" id="33" weight="0.6502549184507618" />
+      <edge source="ADANIENT" target="ADANIPOWER" id="34" weight="0.9445664242439826" />
+      <edge source="ADANIENT" target="AWL" id="35" weight="0.9499996482237917" />
+      <edge source="ADANIGREEN" target="ATGL" id="36" weight="0.703219279182506" />
+      <edge source="ADANIPORTS" target="AMBUJACEM" id="37" weight="0.6928290443549139" />
+      <edge source="ADANIPOWER" target="ATGL" id="38" weight="0.814838989224471" />
+      <edge source="AFFLE" target="BHEL" id="39" weight="1.0939798255540243" />
+      <edge source="AFFLE" target="ERIS" id="40" weight="1.209031642733395" />
+      <edge source="AIAENG" target="GRSE" id="41" weight="1.242131552170079" />
+      <edge source="AJANTPHARM" target="GRANULES" id="42" weight="1.1782344381803584" />
+      <edge source="AKZOINDIA" target="BASF" id="43" weight="1.2051616744367462" />
+      <edge source="ALKEM" target="AUROPHARMA" id="44" weight="1.0787528173429228" />
+      <edge source="ALOKINDS" target="MAHABANK" id="45" weight="1.1534240772610758" />
+      <edge source="AMBER" target="GODREJPROP" id="46" weight="1.1914994535636323" />
+      <edge source="ANANDRATHI" target="EXIDEIND" id="47" weight="1.2521675300543487" />
+      <edge source="ANANTRAJ" target="BHEL" id="48" weight="1.0566055294693508" />
+      <edge source="ANANTRAJ" target="GRAVITA" id="49" weight="1.124847460681604" />
+      <edge source="ANANTRAJ" target="FSL" id="50" weight="1.1384285579378488" />
+      <edge source="ANANTRAJ" target="ASAHIINDIA" id="51" weight="1.171558301642334" />
+      <edge source="ANANTRAJ" target="APLLTD" id="52" weight="1.198248770323672" />
+      <edge source="ANANTRAJ" target="APARINDS" id="53" weight="1.203414822073017" />
+      <edge source="ANANTRAJ" target="GVT&amp;D" id="54" weight="1.2055444190090439" />
+      <edge source="ANANTRAJ" target="GILLETTE" id="55" weight="1.2447622676053045" />
+      <edge source="ANGELONE" target="BSE" id="56" weight="1.0963744320312563" />
+      <edge source="APLAPOLLO" target="BEL" id="57" weight="1.1210544001038265" />
+      <edge source="APOLLOHOSP" target="GODREJPROP" id="58" weight="1.1445332302521753" />
+      <edge source="APOLLOHOSP" target="MEDANTA" id="59" weight="1.2201484627428105" />
+      <edge source="APOLLOHOSP" target="FORTIS" id="60" weight="1.2231647239529633" />
+      <edge source="APOLLOTYRE" target="BALKRISIND" id="61" weight="1.1359957836974626" />
+      <edge source="APTUS" target="ENGINERSIN" id="62" weight="1.1927170960273468" />
+      <edge source="ASHOKLEY" target="BHARATFORG" id="63" weight="1.039038772164967" />
+      <edge source="ASHOKLEY" target="ESCORTS" id="64" weight="1.1059423121803365" />
+      <edge source="ASIANPAINT" target="BERGEPAINT" id="65" weight="1.009699502238259" />
+      <edge source="ASIANPAINT" target="GODREJCP" id="66" weight="1.2064749723547241" />
+      <edge source="ASIANPAINT" target="DMART" id="67" weight="1.253143129758726" />
+      <edge source="ASTERDM" target="ATGL" id="68" weight="1.2334524563518126" />
+      <edge source="ASTRAL" target="GODREJPROP" id="69" weight="1.0548594610297135" />
+      <edge source="ASTRAZEN" target="GUJGASLTD" id="70" weight="1.2671185125037703" />
+      <edge source="ATUL" target="BAYERCROP" id="71" weight="1.2260756822489844" />
+      <edge source="AUBANK" target="BANDHANBNK" id="72" weight="1.1667919558816549" />
+      <edge source="AUROPHARMA" target="GLENMARK" id="73" weight="1.0674568227437582" />
+      <edge source="AXISBANK" target="BANKBARODA" id="74" weight="1.0741536445088486" />
+      <edge source="BAJAJ-AUTO" target="EXIDEIND" id="75" weight="1.1642389874372845" />
+      <edge source="BAJAJFINSV" target="BAJFINANCE" id="76" weight="0.7075662054005151" />
+      <edge source="BAJAJFINSV" target="BAJAJHLDNG" id="77" weight="1.206297036922078" />
+      <edge source="BANDHANBNK" target="BANKBARODA" id="78" weight="1.0352395377761139" />
+      <edge source="BANKBARODA" target="BANKINDIA" id="79" weight="0.880306013486987" />
+      <edge source="BANKBARODA" target="BEL" id="80" weight="0.9740785847314548" />
+      <edge source="BANKBARODA" target="FEDERALBNK" id="81" weight="1.0009551482976848" />
+      <edge source="BANKINDIA" target="MAHABANK" id="82" weight="0.8551469333377898" />
+      <edge source="BDL" target="GRSE" id="83" weight="0.8991752637438183" />
+      <edge source="BDL" target="BEL" id="84" weight="0.9058616159512504" />
+      <edge source="BEL" target="BHEL" id="85" weight="0.832697616847038" />
+      <edge source="BEL" target="GAIL" id="86" weight="0.9183100243901617" />
+      <edge source="BEL" target="BEML" id="87" weight="0.971756924104196" />
+      <edge source="BEL" target="BHARATFORG" id="88" weight="1.0252757715538696" />
+      <edge source="BEL" target="GESHIP" id="89" weight="1.1094448868901399" />
+      <edge source="BEML" target="GMDCLTD" id="90" weight="1.0694271522915635" />
+      <edge source="BEML" target="FINPIPE" id="91" weight="1.124488085158906" />
+      <edge source="BHEL" target="ENGINERSIN" id="92" weight="0.9392634600842232" />
+      <edge source="BHEL" target="GMRAIRPORT" id="93" weight="0.9786878638462909" />
+      <edge source="BHEL" target="GRAPHITE" id="94" weight="1.0831546948027344" />
+      <edge source="MAHABANK" target="GICRE" id="95" weight="1.085768632411196" />
+      <edge source="MAHABANK" target="FINCABLES" id="96" weight="1.1478154061679315" />
+      <edge source="MAHABANK" target="FORCEMOT" id="97" weight="1.1916007842853116" />
+      <edge source="ETERNAL" target="NYKAA" id="98" weight="1.1713065612014757" />
+      <edge source="EXIDEIND" target="GAIL" id="99" weight="1.0021560272203562" />
+      <edge source="GAIL" target="GUJGASLTD" id="100" weight="1.0198193822348027" />
+      <edge source="GAIL" target="GODREJPROP" id="101" weight="1.02981059472672" />
+      <edge source="GLAND" target="GRANULES" id="102" weight="1.2618728131262436" />
+      <edge source="GLENMARK" target="GRANULES" id="103" weight="1.1203226226190064" />
+      <edge source="GODREJIND" target="GODREJPROP" id="104" weight="1.165204265642782" />
+      <edge source="GPIL" target="GRAVITA" id="105" weight="1.317962954654198" />
+      <edge source="GSPL" target="GUJGASLTD" id="106" weight="1.0482278671954164" />
+    </edges>
+  </graph>
+</gexf>

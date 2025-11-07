@@ -1,0 +1,993 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-05">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="abs_weight" type="double" />
+    </attributes>
+    <nodes>
+      <node id="360ONE" label="360ONE" />
+      <node id="3MINDIA" label="3MINDIA" />
+      <node id="AARTIIND" label="AARTIIND" />
+      <node id="AAVAS" label="AAVAS" />
+      <node id="ABB" label="ABB" />
+      <node id="ABBOTINDIA" label="ABBOTINDIA" />
+      <node id="ABCAPITAL" label="ABCAPITAL" />
+      <node id="ABFRL" label="ABFRL" />
+      <node id="ABREL" label="ABREL" />
+      <node id="ABSLAMC" label="ABSLAMC" />
+      <node id="ACC" label="ACC" />
+      <node id="ACE" label="ACE" />
+      <node id="ADANIENSOL" label="ADANIENSOL" />
+      <node id="ADANIENT" label="ADANIENT" />
+      <node id="ADANIGREEN" label="ADANIGREEN" />
+      <node id="ADANIPORTS" label="ADANIPORTS" />
+      <node id="ADANIPOWER" label="ADANIPOWER" />
+      <node id="AFFLE" label="AFFLE" />
+      <node id="AIAENG" label="AIAENG" />
+      <node id="AJANTPHARM" label="AJANTPHARM" />
+      <node id="AKZOINDIA" label="AKZOINDIA" />
+      <node id="ALKEM" label="ALKEM" />
+      <node id="ALKYLAMINE" label="ALKYLAMINE" />
+      <node id="ALOKINDS" label="ALOKINDS" />
+      <node id="AMBER" label="AMBER" />
+      <node id="AMBUJACEM" label="AMBUJACEM" />
+      <node id="ANANDRATHI" label="ANANDRATHI" />
+      <node id="ANANTRAJ" label="ANANTRAJ" />
+      <node id="ANGELONE" label="ANGELONE" />
+      <node id="APARINDS" label="APARINDS" />
+      <node id="APLAPOLLO" label="APLAPOLLO" />
+      <node id="APLLTD" label="APLLTD" />
+      <node id="APOLLOHOSP" label="APOLLOHOSP" />
+      <node id="APOLLOTYRE" label="APOLLOTYRE" />
+      <node id="APTUS" label="APTUS" />
+      <node id="ASAHIINDIA" label="ASAHIINDIA" />
+      <node id="ASHOKLEY" label="ASHOKLEY" />
+      <node id="ASIANPAINT" label="ASIANPAINT" />
+      <node id="ASTERDM" label="ASTERDM" />
+      <node id="ASTRAL" label="ASTRAL" />
+      <node id="ASTRAZEN" label="ASTRAZEN" />
+      <node id="ATGL" label="ATGL" />
+      <node id="ATUL" label="ATUL" />
+      <node id="AUBANK" label="AUBANK" />
+      <node id="AUROPHARMA" label="AUROPHARMA" />
+      <node id="AWL" label="AWL" />
+      <node id="AXISBANK" label="AXISBANK" />
+      <node id="BAJAJ-AUTO" label="BAJAJ-AUTO" />
+      <node id="BAJAJFINSV" label="BAJAJFINSV" />
+      <node id="BAJAJHLDNG" label="BAJAJHLDNG" />
+      <node id="BAJFINANCE" label="BAJFINANCE" />
+      <node id="BALKRISIND" label="BALKRISIND" />
+      <node id="BALRAMCHIN" label="BALRAMCHIN" />
+      <node id="BANDHANBNK" label="BANDHANBNK" />
+      <node id="BANKBARODA" label="BANKBARODA" />
+      <node id="BANKINDIA" label="BANKINDIA" />
+      <node id="BASF" label="BASF" />
+      <node id="BATAINDIA" label="BATAINDIA" />
+      <node id="BAYERCROP" label="BAYERCROP" />
+      <node id="BDL" label="BDL" />
+      <node id="BEL" label="BEL" />
+      <node id="BEML" label="BEML" />
+      <node id="BERGEPAINT" label="BERGEPAINT" />
+      <node id="BHARATFORG" label="BHARATFORG" />
+      <node id="BHEL" label="BHEL" />
+      <node id="BLS" label="BLS" />
+      <node id="BSE" label="BSE" />
+      <node id="DMART" label="DMART" />
+      <node id="MAHABANK" label="MAHABANK" />
+      <node id="ENGINERSIN" label="ENGINERSIN" />
+      <node id="ERIS" label="ERIS" />
+      <node id="ESCORTS" label="ESCORTS" />
+      <node id="ETERNAL" label="ETERNAL" />
+      <node id="EXIDEIND" label="EXIDEIND" />
+      <node id="FACT" label="FACT" />
+      <node id="FEDERALBNK" label="FEDERALBNK" />
+      <node id="FINCABLES" label="FINCABLES" />
+      <node id="FINPIPE" label="FINPIPE" />
+      <node id="FIVESTAR" label="FIVESTAR" />
+      <node id="FLUOROCHEM" label="FLUOROCHEM" />
+      <node id="FORCEMOT" label="FORCEMOT" />
+      <node id="FORTIS" label="FORTIS" />
+      <node id="FSL" label="FSL" />
+      <node id="GAIL" label="GAIL" />
+      <node id="GESHIP" label="GESHIP" />
+      <node id="GICRE" label="GICRE" />
+      <node id="GILLETTE" label="GILLETTE" />
+      <node id="GLAND" label="GLAND" />
+      <node id="GLAXO" label="GLAXO" />
+      <node id="GLENMARK" label="GLENMARK" />
+      <node id="GMDCLTD" label="GMDCLTD" />
+      <node id="GMRAIRPORT" label="GMRAIRPORT" />
+      <node id="GODFRYPHLP" label="GODFRYPHLP" />
+      <node id="GODREJAGRO" label="GODREJAGRO" />
+      <node id="GODREJCP" label="GODREJCP" />
+      <node id="GODREJIND" label="GODREJIND" />
+      <node id="GODREJPROP" label="GODREJPROP" />
+      <node id="GPIL" label="GPIL" />
+      <node id="GRANULES" label="GRANULES" />
+      <node id="GRAPHITE" label="GRAPHITE" />
+      <node id="GRASIM" label="GRASIM" />
+      <node id="GRAVITA" label="GRAVITA" />
+      <node id="GRSE" label="GRSE" />
+      <node id="GSPL" label="GSPL" />
+      <node id="GUJGASLTD" label="GUJGASLTD" />
+      <node id="GVT&amp;D" label="GVT&amp;D" />
+      <node id="MEDANTA" label="MEDANTA" />
+      <node id="NYKAA" label="NYKAA" />
+    </nodes>
+    <edges>
+      <edge source="AARTIIND" target="ATUL" id="0" weight="0.4856363709537289">
+        <attvalues>
+          <attvalue for="0" value="0.4856363709537289" />
+        </attvalues>
+      </edge>
+      <edge source="AARTIIND" target="EXIDEIND" id="1" weight="0.4376452430116334">
+        <attvalues>
+          <attvalue for="0" value="0.4376452430116334" />
+        </attvalues>
+      </edge>
+      <edge source="AARTIIND" target="GRANULES" id="2" weight="0.4214227578464661">
+        <attvalues>
+          <attvalue for="0" value="0.4214227578464661" />
+        </attvalues>
+      </edge>
+      <edge source="ABB" target="ADANIPORTS" id="3" weight="0.42313096369811">
+        <attvalues>
+          <attvalue for="0" value="0.42313096369811" />
+        </attvalues>
+      </edge>
+      <edge source="ABB" target="BEL" id="4" weight="0.4886283085648267">
+        <attvalues>
+          <attvalue for="0" value="0.4886283085648267" />
+        </attvalues>
+      </edge>
+      <edge source="ABB" target="BHEL" id="5" weight="0.4774176964653879">
+        <attvalues>
+          <attvalue for="0" value="0.4774176964653879" />
+        </attvalues>
+      </edge>
+      <edge source="ABB" target="GODREJPROP" id="6" weight="0.4190373685247813">
+        <attvalues>
+          <attvalue for="0" value="0.4190373685247813" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="ACC" id="7" weight="0.4627452271674368">
+        <attvalues>
+          <attvalue for="0" value="0.4627452271674368" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="ADANIPORTS" id="8" weight="0.432291426759157">
+        <attvalues>
+          <attvalue for="0" value="0.432291426759157" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="AMBUJACEM" id="9" weight="0.4350648644086331">
+        <attvalues>
+          <attvalue for="0" value="0.4350648644086331" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="ASHOKLEY" id="10" weight="0.4245252368580955">
+        <attvalues>
+          <attvalue for="0" value="0.4245252368580955" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BAJAJFINSV" id="11" weight="0.4052645168721629">
+        <attvalues>
+          <attvalue for="0" value="0.4052645168721629" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BALRAMCHIN" id="12" weight="0.4088813121309514">
+        <attvalues>
+          <attvalue for="0" value="0.4088813121309514" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BANDHANBNK" id="13" weight="0.4467671126837895">
+        <attvalues>
+          <attvalue for="0" value="0.4467671126837895" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BANKBARODA" id="14" weight="0.5000600287025888">
+        <attvalues>
+          <attvalue for="0" value="0.5000600287025888" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BANKINDIA" id="15" weight="0.4693504469551875">
+        <attvalues>
+          <attvalue for="0" value="0.4693504469551875" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BEL" id="16" weight="0.4427447636763022">
+        <attvalues>
+          <attvalue for="0" value="0.4427447636763022" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BHARATFORG" id="17" weight="0.4357887706600695">
+        <attvalues>
+          <attvalue for="0" value="0.4357887706600695" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="BHEL" id="18" weight="0.4911401207654375">
+        <attvalues>
+          <attvalue for="0" value="0.4911401207654375" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="MAHABANK" id="19" weight="0.4748785438167163">
+        <attvalues>
+          <attvalue for="0" value="0.4748785438167163" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="ENGINERSIN" id="20" weight="0.4211987808133119">
+        <attvalues>
+          <attvalue for="0" value="0.4211987808133119" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="EXIDEIND" id="21" weight="0.4318883373889097">
+        <attvalues>
+          <attvalue for="0" value="0.4318883373889097" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="GAIL" id="22" weight="0.4507509851947629">
+        <attvalues>
+          <attvalue for="0" value="0.4507509851947629" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="GMDCLTD" id="23" weight="0.4087628357331236">
+        <attvalues>
+          <attvalue for="0" value="0.4087628357331236" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="GMRAIRPORT" id="24" weight="0.4758046725155251">
+        <attvalues>
+          <attvalue for="0" value="0.4758046725155251" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="GODREJPROP" id="25" weight="0.4565052629981422">
+        <attvalues>
+          <attvalue for="0" value="0.4565052629981422" />
+        </attvalues>
+      </edge>
+      <edge source="ABCAPITAL" target="GRASIM" id="26" weight="0.4170281738927528">
+        <attvalues>
+          <attvalue for="0" value="0.4170281738927528" />
+        </attvalues>
+      </edge>
+      <edge source="ABREL" target="BHEL" id="27" weight="0.4147578015718155">
+        <attvalues>
+          <attvalue for="0" value="0.4147578015718155" />
+        </attvalues>
+      </edge>
+      <edge source="ABREL" target="GAIL" id="28" weight="0.4039557255970348">
+        <attvalues>
+          <attvalue for="0" value="0.4039557255970348" />
+        </attvalues>
+      </edge>
+      <edge source="ABSLAMC" target="ANANTRAJ" id="29" weight="0.411294509347282">
+        <attvalues>
+          <attvalue for="0" value="0.411294509347282" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIENSOL" id="30" weight="0.4465773331309174">
+        <attvalues>
+          <attvalue for="0" value="0.4465773331309174" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIENT" id="31" weight="0.6031094357993632">
+        <attvalues>
+          <attvalue for="0" value="0.6031094357993632" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIGREEN" id="32" weight="0.4786270661078167">
+        <attvalues>
+          <attvalue for="0" value="0.4786270661078167" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIPORTS" id="33" weight="0.7109092426641542">
+        <attvalues>
+          <attvalue for="0" value="0.7109092426641542" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ADANIPOWER" id="34" weight="0.4792802553074089">
+        <attvalues>
+          <attvalue for="0" value="0.4792802553074089" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="AMBUJACEM" id="35" weight="0.8256634258869672">
+        <attvalues>
+          <attvalue for="0" value="0.8256634258869672" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="ATGL" id="36" weight="0.4677421715983794">
+        <attvalues>
+          <attvalue for="0" value="0.4677421715983794" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="AWL" id="37" weight="0.4261001300068252">
+        <attvalues>
+          <attvalue for="0" value="0.4261001300068252" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="BANKBARODA" id="38" weight="0.5551163679254566">
+        <attvalues>
+          <attvalue for="0" value="0.5551163679254566" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="BANKINDIA" id="39" weight="0.4135986508127826">
+        <attvalues>
+          <attvalue for="0" value="0.4135986508127826" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="BEL" id="40" weight="0.4885579561975182">
+        <attvalues>
+          <attvalue for="0" value="0.4885579561975182" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="BHEL" id="41" weight="0.4737652285327265">
+        <attvalues>
+          <attvalue for="0" value="0.4737652285327265" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="MAHABANK" id="42" weight="0.4194665837015215">
+        <attvalues>
+          <attvalue for="0" value="0.4194665837015215" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="GAIL" id="43" weight="0.4517180876078749">
+        <attvalues>
+          <attvalue for="0" value="0.4517180876078749" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="GMRAIRPORT" id="44" weight="0.4852642943498472">
+        <attvalues>
+          <attvalue for="0" value="0.4852642943498472" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="GODREJPROP" id="45" weight="0.416005309625219">
+        <attvalues>
+          <attvalue for="0" value="0.416005309625219" />
+        </attvalues>
+      </edge>
+      <edge source="ACC" target="GRASIM" id="46" weight="0.4484037282131742">
+        <attvalues>
+          <attvalue for="0" value="0.4484037282131742" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ADANIENT" id="47" weight="0.4586742719995959">
+        <attvalues>
+          <attvalue for="0" value="0.4586742719995959" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ADANIGREEN" id="48" weight="0.6517155681747522">
+        <attvalues>
+          <attvalue for="0" value="0.6517155681747522" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ADANIPORTS" id="49" weight="0.5162155907487711">
+        <attvalues>
+          <attvalue for="0" value="0.5162155907487711" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ADANIPOWER" id="50" weight="0.5864403104095272">
+        <attvalues>
+          <attvalue for="0" value="0.5864403104095272" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="AMBUJACEM" id="51" weight="0.4466632969845793">
+        <attvalues>
+          <attvalue for="0" value="0.4466632969845793" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="ATGL" id="52" weight="0.5979431293966253">
+        <attvalues>
+          <attvalue for="0" value="0.5979431293966253" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENSOL" target="AWL" id="53" weight="0.434927448176446">
+        <attvalues>
+          <attvalue for="0" value="0.434927448176446" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="ADANIGREEN" id="54" weight="0.5526009512297385">
+        <attvalues>
+          <attvalue for="0" value="0.5526009512297385" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="ADANIPORTS" id="55" weight="0.7885842705152966">
+        <attvalues>
+          <attvalue for="0" value="0.7885842705152966" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="ADANIPOWER" id="56" weight="0.5538971350954683">
+        <attvalues>
+          <attvalue for="0" value="0.5538971350954683" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="AMBUJACEM" id="57" weight="0.6509661184632848">
+        <attvalues>
+          <attvalue for="0" value="0.6509661184632848" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="ATGL" id="58" weight="0.5283861827269511">
+        <attvalues>
+          <attvalue for="0" value="0.5283861827269511" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="AWL" id="59" weight="0.548750334187336">
+        <attvalues>
+          <attvalue for="0" value="0.548750334187336" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIENT" target="BANKBARODA" id="60" weight="0.4298001435261048">
+        <attvalues>
+          <attvalue for="0" value="0.4298001435261048" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="ADANIPORTS" id="61" weight="0.5364215176439677">
+        <attvalues>
+          <attvalue for="0" value="0.5364215176439677" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="ADANIPOWER" id="62" weight="0.6231226906841121">
+        <attvalues>
+          <attvalue for="0" value="0.6231226906841121" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="AMBUJACEM" id="63" weight="0.4997862712403769">
+        <attvalues>
+          <attvalue for="0" value="0.4997862712403769" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="ATGL" id="64" weight="0.7527413226930183">
+        <attvalues>
+          <attvalue for="0" value="0.7527413226930183" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIGREEN" target="AWL" id="65" weight="0.510425794453263">
+        <attvalues>
+          <attvalue for="0" value="0.510425794453263" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="ADANIPOWER" id="66" weight="0.5455137409578935">
+        <attvalues>
+          <attvalue for="0" value="0.5455137409578935" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="AMBUJACEM" id="67" weight="0.7599939576491284">
+        <attvalues>
+          <attvalue for="0" value="0.7599939576491284" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="ATGL" id="68" weight="0.5048887060589193">
+        <attvalues>
+          <attvalue for="0" value="0.5048887060589193" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="AWL" id="69" weight="0.4793403381383208">
+        <attvalues>
+          <attvalue for="0" value="0.4793403381383208" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="BANKBARODA" id="70" weight="0.5422135667891942">
+        <attvalues>
+          <attvalue for="0" value="0.5422135667891942" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="BANKINDIA" id="71" weight="0.4231190747793354">
+        <attvalues>
+          <attvalue for="0" value="0.4231190747793354" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="BEL" id="72" weight="0.4817788865875979">
+        <attvalues>
+          <attvalue for="0" value="0.4817788865875979" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="BHEL" id="73" weight="0.4505768260570419">
+        <attvalues>
+          <attvalue for="0" value="0.4505768260570419" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="MAHABANK" id="74" weight="0.4277435625717531">
+        <attvalues>
+          <attvalue for="0" value="0.4277435625717531" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="GAIL" id="75" weight="0.4020533203695062">
+        <attvalues>
+          <attvalue for="0" value="0.4020533203695062" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPORTS" target="GMRAIRPORT" id="76" weight="0.4593510923171587">
+        <attvalues>
+          <attvalue for="0" value="0.4593510923171587" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPOWER" target="AMBUJACEM" id="77" weight="0.4529440614602562">
+        <attvalues>
+          <attvalue for="0" value="0.4529440614602562" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPOWER" target="ATGL" id="78" weight="0.6680187108198212">
+        <attvalues>
+          <attvalue for="0" value="0.6680187108198212" />
+        </attvalues>
+      </edge>
+      <edge source="ADANIPOWER" target="AWL" id="79" weight="0.5417798137285647">
+        <attvalues>
+          <attvalue for="0" value="0.5417798137285647" />
+        </attvalues>
+      </edge>
+      <edge source="AFFLE" target="BHEL" id="80" weight="0.4016040706403933">
+        <attvalues>
+          <attvalue for="0" value="0.4016040706403933" />
+        </attvalues>
+      </edge>
+      <edge source="ALKEM" target="AUROPHARMA" id="81" weight="0.4181461795373534">
+        <attvalues>
+          <attvalue for="0" value="0.4181461795373534" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="ATGL" id="82" weight="0.4577715117913756">
+        <attvalues>
+          <attvalue for="0" value="0.4577715117913756" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="AWL" id="83" weight="0.4272113871694047">
+        <attvalues>
+          <attvalue for="0" value="0.4272113871694047" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="BANKBARODA" id="84" weight="0.5344517500970055">
+        <attvalues>
+          <attvalue for="0" value="0.5344517500970055" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="BANKINDIA" id="85" weight="0.410075640384633">
+        <attvalues>
+          <attvalue for="0" value="0.410075640384633" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="BEL" id="86" weight="0.4620426181342925">
+        <attvalues>
+          <attvalue for="0" value="0.4620426181342925" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="BHEL" id="87" weight="0.4340454890615118">
+        <attvalues>
+          <attvalue for="0" value="0.4340454890615118" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="MAHABANK" id="88" weight="0.4248138143860896">
+        <attvalues>
+          <attvalue for="0" value="0.4248138143860896" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="GAIL" id="89" weight="0.4035847981589937">
+        <attvalues>
+          <attvalue for="0" value="0.4035847981589937" />
+        </attvalues>
+      </edge>
+      <edge source="AMBUJACEM" target="GMRAIRPORT" id="90" weight="0.442489783380138">
+        <attvalues>
+          <attvalue for="0" value="0.442489783380138" />
+        </attvalues>
+      </edge>
+      <edge source="ANANTRAJ" target="BEL" id="91" weight="0.4408294361353416">
+        <attvalues>
+          <attvalue for="0" value="0.4408294361353416" />
+        </attvalues>
+      </edge>
+      <edge source="ANANTRAJ" target="BHEL" id="92" weight="0.4417923775473964">
+        <attvalues>
+          <attvalue for="0" value="0.4417923775473964" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="BANKBARODA" id="93" weight="0.4201628070941643">
+        <attvalues>
+          <attvalue for="0" value="0.4201628070941643" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="BEL" id="94" weight="0.4448585330262218">
+        <attvalues>
+          <attvalue for="0" value="0.4448585330262218" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="BHARATFORG" id="95" weight="0.4601992149689588">
+        <attvalues>
+          <attvalue for="0" value="0.4601992149689588" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="BHEL" id="96" weight="0.4310200576978419">
+        <attvalues>
+          <attvalue for="0" value="0.4310200576978419" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="EXIDEIND" id="97" weight="0.4576025648649673">
+        <attvalues>
+          <attvalue for="0" value="0.4576025648649673" />
+        </attvalues>
+      </edge>
+      <edge source="ASHOKLEY" target="GAIL" id="98" weight="0.4336677355153882">
+        <attvalues>
+          <attvalue for="0" value="0.4336677355153882" />
+        </attvalues>
+      </edge>
+      <edge source="ASIANPAINT" target="BERGEPAINT" id="99" weight="0.4902534575899057">
+        <attvalues>
+          <attvalue for="0" value="0.4902534575899057" />
+        </attvalues>
+      </edge>
+      <edge source="ASTRAL" target="GODREJPROP" id="100" weight="0.4436357587380513">
+        <attvalues>
+          <attvalue for="0" value="0.4436357587380513" />
+        </attvalues>
+      </edge>
+      <edge source="ATGL" target="AWL" id="101" weight="0.5305901294070696">
+        <attvalues>
+          <attvalue for="0" value="0.5305901294070696" />
+        </attvalues>
+      </edge>
+      <edge source="AUROPHARMA" target="GLENMARK" id="102" weight="0.4302679657889003">
+        <attvalues>
+          <attvalue for="0" value="0.4302679657889003" />
+        </attvalues>
+      </edge>
+      <edge source="AXISBANK" target="BANKBARODA" id="103" weight="0.423096973994179">
+        <attvalues>
+          <attvalue for="0" value="0.423096973994179" />
+        </attvalues>
+      </edge>
+      <edge source="BAJAJFINSV" target="BAJFINANCE" id="104" weight="0.7496750324875581">
+        <attvalues>
+          <attvalue for="0" value="0.7496750324875581" />
+        </attvalues>
+      </edge>
+      <edge source="BANDHANBNK" target="BANKBARODA" id="105" weight="0.4641395497125491">
+        <attvalues>
+          <attvalue for="0" value="0.4641395497125491" />
+        </attvalues>
+      </edge>
+      <edge source="BANDHANBNK" target="BANKINDIA" id="106" weight="0.4232956183171362">
+        <attvalues>
+          <attvalue for="0" value="0.4232956183171362" />
+        </attvalues>
+      </edge>
+      <edge source="BANDHANBNK" target="MAHABANK" id="107" weight="0.4246192860441229">
+        <attvalues>
+          <attvalue for="0" value="0.4246192860441229" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="BANKINDIA" id="108" weight="0.6125306613093243">
+        <attvalues>
+          <attvalue for="0" value="0.6125306613093243" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="BEL" id="109" weight="0.525585455383783">
+        <attvalues>
+          <attvalue for="0" value="0.525585455383783" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="BHARATFORG" id="110" weight="0.4076216430385205">
+        <attvalues>
+          <attvalue for="0" value="0.4076216430385205" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="BHEL" id="111" weight="0.5120503377387596">
+        <attvalues>
+          <attvalue for="0" value="0.5120503377387596" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="MAHABANK" id="112" weight="0.5717987857931855">
+        <attvalues>
+          <attvalue for="0" value="0.5717987857931855" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="ENGINERSIN" id="113" weight="0.4324077580266576">
+        <attvalues>
+          <attvalue for="0" value="0.4324077580266576" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="FEDERALBNK" id="114" weight="0.4990443955481797">
+        <attvalues>
+          <attvalue for="0" value="0.4990443955481797" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="GAIL" id="115" weight="0.5011251650935772">
+        <attvalues>
+          <attvalue for="0" value="0.5011251650935772" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="GMRAIRPORT" id="116" weight="0.4093106233455727">
+        <attvalues>
+          <attvalue for="0" value="0.4093106233455727" />
+        </attvalues>
+      </edge>
+      <edge source="BANKBARODA" target="GODREJPROP" id="117" weight="0.422006566091906">
+        <attvalues>
+          <attvalue for="0" value="0.422006566091906" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="BEL" id="118" weight="0.4373472475191839">
+        <attvalues>
+          <attvalue for="0" value="0.4373472475191839" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="BHEL" id="119" weight="0.4243724026988336">
+        <attvalues>
+          <attvalue for="0" value="0.4243724026988336" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="MAHABANK" id="120" weight="0.6343618612014869">
+        <attvalues>
+          <attvalue for="0" value="0.6343618612014869" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="ENGINERSIN" id="121" weight="0.4184237400213991">
+        <attvalues>
+          <attvalue for="0" value="0.4184237400213991" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="FEDERALBNK" id="122" weight="0.4235903458832665">
+        <attvalues>
+          <attvalue for="0" value="0.4235903458832665" />
+        </attvalues>
+      </edge>
+      <edge source="BANKINDIA" target="GAIL" id="123" weight="0.4076708300616877">
+        <attvalues>
+          <attvalue for="0" value="0.4076708300616877" />
+        </attvalues>
+      </edge>
+      <edge source="BDL" target="BEL" id="124" weight="0.5897073663730947">
+        <attvalues>
+          <attvalue for="0" value="0.5897073663730947" />
+        </attvalues>
+      </edge>
+      <edge source="BDL" target="BEML" id="125" weight="0.4680301071115157">
+        <attvalues>
+          <attvalue for="0" value="0.4680301071115157" />
+        </attvalues>
+      </edge>
+      <edge source="BDL" target="BHARATFORG" id="126" weight="0.4013405820772663">
+        <attvalues>
+          <attvalue for="0" value="0.4013405820772663" />
+        </attvalues>
+      </edge>
+      <edge source="BDL" target="BHEL" id="127" weight="0.43769628767079">
+        <attvalues>
+          <attvalue for="0" value="0.43769628767079" />
+        </attvalues>
+      </edge>
+      <edge source="BDL" target="GRSE" id="128" weight="0.5957419225356174">
+        <attvalues>
+          <attvalue for="0" value="0.5957419225356174" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="BEML" id="129" weight="0.5278442402277759">
+        <attvalues>
+          <attvalue for="0" value="0.5278442402277759" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="BHARATFORG" id="130" weight="0.4744047961323086">
+        <attvalues>
+          <attvalue for="0" value="0.4744047961323086" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="BHEL" id="131" weight="0.6533073394486317">
+        <attvalues>
+          <attvalue for="0" value="0.6533073394486317" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="MAHABANK" id="132" weight="0.4524596518592396">
+        <attvalues>
+          <attvalue for="0" value="0.4524596518592396" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="ENGINERSIN" id="133" weight="0.5246815867524597">
+        <attvalues>
+          <attvalue for="0" value="0.5246815867524597" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="EXIDEIND" id="134" weight="0.4254577230757768">
+        <attvalues>
+          <attvalue for="0" value="0.4254577230757768" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="GAIL" id="135" weight="0.5783533495522702">
+        <attvalues>
+          <attvalue for="0" value="0.5783533495522702" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="GMDCLTD" id="136" weight="0.4110345075805589">
+        <attvalues>
+          <attvalue for="0" value="0.4110345075805589" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="GMRAIRPORT" id="137" weight="0.5065639991442916">
+        <attvalues>
+          <attvalue for="0" value="0.5065639991442916" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="GODREJPROP" id="138" weight="0.4585049108376841">
+        <attvalues>
+          <attvalue for="0" value="0.4585049108376841" />
+        </attvalues>
+      </edge>
+      <edge source="BEL" target="GRSE" id="139" weight="0.4843633860168622">
+        <attvalues>
+          <attvalue for="0" value="0.4843633860168622" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="BHEL" id="140" weight="0.4953264571386713">
+        <attvalues>
+          <attvalue for="0" value="0.4953264571386713" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="ENGINERSIN" id="141" weight="0.4573144693918805">
+        <attvalues>
+          <attvalue for="0" value="0.4573144693918805" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="GAIL" id="142" weight="0.435555769904789">
+        <attvalues>
+          <attvalue for="0" value="0.435555769904789" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="GMDCLTD" id="143" weight="0.4281627829707785">
+        <attvalues>
+          <attvalue for="0" value="0.4281627829707785" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="GMRAIRPORT" id="144" weight="0.4029136754476541">
+        <attvalues>
+          <attvalue for="0" value="0.4029136754476541" />
+        </attvalues>
+      </edge>
+      <edge source="BEML" target="GRSE" id="145" weight="0.4489158768841751">
+        <attvalues>
+          <attvalue for="0" value="0.4489158768841751" />
+        </attvalues>
+      </edge>
+      <edge source="BHARATFORG" target="BHEL" id="146" weight="0.4479153700312244">
+        <attvalues>
+          <attvalue for="0" value="0.4479153700312244" />
+        </attvalues>
+      </edge>
+      <edge source="BHARATFORG" target="EXIDEIND" id="147" weight="0.4418679583445278">
+        <attvalues>
+          <attvalue for="0" value="0.4418679583445278" />
+        </attvalues>
+      </edge>
+      <edge source="BHARATFORG" target="GAIL" id="148" weight="0.4510253255073082">
+        <attvalues>
+          <attvalue for="0" value="0.4510253255073082" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="MAHABANK" id="149" weight="0.4238039222354648">
+        <attvalues>
+          <attvalue for="0" value="0.4238039222354648" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="ENGINERSIN" id="150" weight="0.5588920762753063">
+        <attvalues>
+          <attvalue for="0" value="0.5588920762753063" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="EXIDEIND" id="151" weight="0.4911861249184931">
+        <attvalues>
+          <attvalue for="0" value="0.4911861249184931" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="GAIL" id="152" weight="0.572272132013688">
+        <attvalues>
+          <attvalue for="0" value="0.572272132013688" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="GMDCLTD" id="153" weight="0.4250346490944347">
+        <attvalues>
+          <attvalue for="0" value="0.4250346490944347" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="GMRAIRPORT" id="154" weight="0.521085032579992">
+        <attvalues>
+          <attvalue for="0" value="0.521085032579992" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="GODREJPROP" id="155" weight="0.4371448945559363">
+        <attvalues>
+          <attvalue for="0" value="0.4371448945559363" />
+        </attvalues>
+      </edge>
+      <edge source="BHEL" target="GRAPHITE" id="156" weight="0.4133879535633978">
+        <attvalues>
+          <attvalue for="0" value="0.4133879535633978" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="ENGINERSIN" id="157" weight="0.4533979230759145">
+        <attvalues>
+          <attvalue for="0" value="0.4533979230759145" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="FEDERALBNK" id="158" weight="0.4300585687707983">
+        <attvalues>
+          <attvalue for="0" value="0.4300585687707983" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="GAIL" id="159" weight="0.4438123235194322">
+        <attvalues>
+          <attvalue for="0" value="0.4438123235194322" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="GICRE" id="160" weight="0.4105532384359607">
+        <attvalues>
+          <attvalue for="0" value="0.4105532384359607" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="GMDCLTD" id="161" weight="0.4215668323056364">
+        <attvalues>
+          <attvalue for="0" value="0.4215668323056364" />
+        </attvalues>
+      </edge>
+      <edge source="MAHABANK" target="GMRAIRPORT" id="162" weight="0.4203700630533948">
+        <attvalues>
+          <attvalue for="0" value="0.4203700630533948" />
+        </attvalues>
+      </edge>
+      <edge source="ENGINERSIN" target="GAIL" id="163" weight="0.4904909002476693">
+        <attvalues>
+          <attvalue for="0" value="0.4904909002476693" />
+        </attvalues>
+      </edge>
+      <edge source="ENGINERSIN" target="GMDCLTD" id="164" weight="0.4131730761265203">
+        <attvalues>
+          <attvalue for="0" value="0.4131730761265203" />
+        </attvalues>
+      </edge>
+      <edge source="ENGINERSIN" target="GMRAIRPORT" id="165" weight="0.4458618312445944">
+        <attvalues>
+          <attvalue for="0" value="0.4458618312445944" />
+        </attvalues>
+      </edge>
+      <edge source="ENGINERSIN" target="GRSE" id="166" weight="0.4140688976955568">
+        <attvalues>
+          <attvalue for="0" value="0.4140688976955568" />
+        </attvalues>
+      </edge>
+      <edge source="EXIDEIND" target="GAIL" id="167" weight="0.4978416485529561">
+        <attvalues>
+          <attvalue for="0" value="0.4978416485529561" />
+        </attvalues>
+      </edge>
+      <edge source="EXIDEIND" target="GMRAIRPORT" id="168" weight="0.429689565904048">
+        <attvalues>
+          <attvalue for="0" value="0.429689565904048" />
+        </attvalues>
+      </edge>
+      <edge source="GAIL" target="GMDCLTD" id="169" weight="0.4041202104747429">
+        <attvalues>
+          <attvalue for="0" value="0.4041202104747429" />
+        </attvalues>
+      </edge>
+      <edge source="GAIL" target="GMRAIRPORT" id="170" weight="0.4842043298309449">
+        <attvalues>
+          <attvalue for="0" value="0.4842043298309449" />
+        </attvalues>
+      </edge>
+      <edge source="GAIL" target="GODREJPROP" id="171" weight="0.4697450694942997">
+        <attvalues>
+          <attvalue for="0" value="0.4697450694942997" />
+        </attvalues>
+      </edge>
+      <edge source="GAIL" target="GUJGASLTD" id="172" weight="0.4799842138091127">
+        <attvalues>
+          <attvalue for="0" value="0.4799842138091127" />
+        </attvalues>
+      </edge>
+      <edge source="GSPL" target="GUJGASLTD" id="173" weight="0.4506091692174743">
+        <attvalues>
+          <attvalue for="0" value="0.4506091692174743" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
